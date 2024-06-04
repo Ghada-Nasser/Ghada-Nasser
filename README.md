@@ -1,6 +1,6 @@
 <h3 align="center">🌱 I’m currently learning Computer Science<br>
 🌱 I am a Junior at Faculty of Computers & Informatics at The Egyptian E-Learning University - EELU</h3>
-<img align="right" alt="coding" width="500" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXZxdG5pMmhvYWlmcjJobXprM3Z6N2IzcXMwNXkzNzRvN3I2eWUxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXZxdG5pMmhvYWlmcjJobXprM3Z6N2IzcXMwNXkzNzRvN3I2eWUxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 - 📫 How to reach me **ghadanasserr74@gmail.com**
 
