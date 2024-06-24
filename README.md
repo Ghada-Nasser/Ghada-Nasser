@@ -4,8 +4,6 @@
 
  <h3>About me</h3>
  
-- 🏫 I am a junior student from <a href="https://www.eelu.edu.eg/academic-affairs/faculties/faculty-computers-and-information-technology">`The Faculty of Computers & Informatics`</a> at <a class ="mylink" href="https://www.eelu.edu.eg/">`The Egyptian E-Learning University - EELU`</a>.
-
 - ✍🏻 I love using Software and new technologies to solve problems.
 - 📚 I am currently learning `Computer Science`.
 - 📫 How to reach me **ghadanasserr74@gmail.com**
