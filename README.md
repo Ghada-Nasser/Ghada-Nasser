@@ -19,6 +19,4 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghada-nasser&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ghada-nasser" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ghada-nasser&show_icons=true&locale=en&theme=tokyonight" alt="ghada-nasser" />
-
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ghada-nasser&&theme=tokyonight" alt="ghada-nasser" />
